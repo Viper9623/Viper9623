@@ -1,4 +1,4 @@
-- 👋 Hi, @Viper9623
+- 👋 Hi, Ashleigh
 - 👀 I’m interested in ...cars, soccer, movies, tech, software development and coding
 - 🌱 I’m currently learning ... python, c++, java script, php
 - 💞️ I’m looking to collaborate on ...anything that will help improve my coding, help me learn and get advance my career in IT
